@@ -1,6 +1,6 @@
 # MODULE #
 # Install Modules or Materials for Termux and Linux
-# FOR TERMUX#
+# FOR TERMUX #
 
 pkg update
 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 python Module-Termux.py
 
-#FOR LINUX#
+# FOR LINUX #
 
 apt update
 

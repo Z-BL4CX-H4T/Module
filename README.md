@@ -2,13 +2,10 @@
 # Install Modules or Materials for Termux and Linux
 # FOR TERMUX #
 
-pkg update
-
-pkg upgrade
-
-pkg install python2
-
-pkg install python
+pkg update -y
+pkg upgrade -y
+pkg install python2 -y
+pkg install python -y
 
 pkg install git
 

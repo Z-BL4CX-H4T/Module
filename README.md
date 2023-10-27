@@ -3,8 +3,11 @@
 # FOR TERMUX #
 
 pkg update -y
+
 pkg upgrade -y
+
 pkg install python2 -y
+
 pkg install python -y
 
 pkg install git
@@ -21,11 +24,11 @@ python Module-Termux.py
 
 # FOR LINUX #
 
-apt update
+apt update -y
 
-apt upgrade
+apt upgrade -y
 
-apt install python2
+apt install python2 -y
 
 apt install git
 

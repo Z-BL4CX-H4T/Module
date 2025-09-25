@@ -7,7 +7,7 @@ pkg upgrade -y
 pkg install python2 -y
 pkg install python -y
 pkg install git
-git clone https://github.com/ZeThAlOnE/Module.git
+git https://github.com/Z-BL4CX-H4T/Module.git
 cd Module
 chmod +x *
 pip install -r requirements.txt
@@ -20,7 +20,7 @@ apt update -y
 apt upgrade -y
 apt install python2 -y
 apt install git
-git clone https://github.com/ZeThAlOnE/Module.git
+git clone https://github.com/Z-BL4CX-H4T/Module.git
 cd Module
 chmod +x *
 pip2 install -r requiremenst.txt
